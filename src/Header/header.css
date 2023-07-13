@@ -1,0 +1,36 @@
+.header {
+  text-align: center;
+}
+
+.headerHead {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 36px;
+  margin-bottom: 0px;
+}
+
+.headerLine {
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 0px;
+
+}
+
+.headerParagr {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+.headerButton {
+  padding: 10px 20px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+  margin: 50px auto;
+  font-size: 15px;
+}
+
+.headerButton:hover {
+  background-color: black;
+  color: white
+}

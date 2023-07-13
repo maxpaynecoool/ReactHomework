@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+.typography {
+  color: red;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+}
+
+.fontOpenSans {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+.fontRaleway {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}

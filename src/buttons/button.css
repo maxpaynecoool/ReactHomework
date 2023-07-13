@@ -1,0 +1,25 @@
+.buttons {
+  font-family: 'Roboto', sans-serif ;
+  color: red;
+  font-size: 50px;
+}
+
+.bgrd {
+  margin-right: 300px;
+  background-color: #333333;
+  height: 170px;
+}
+
+.btn {
+  display: inline-block;
+  color: white;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  border-style: solid;
+  border-color: white;
+  width: 250px;
+  height: auto;
+  text-align: center;
+  margin: 35px auto 35px 35px;
+  padding: 30px;
+}

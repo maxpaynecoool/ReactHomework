@@ -1,0 +1,10 @@
+.colors {
+  font-family: 'Roboto', sans-serif ;
+  color: red;
+  font-size: 50px;
+}
+
+.colorsPalette {
+  display: flex;
+  gap: 20px;
+}
